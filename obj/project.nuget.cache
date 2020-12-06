@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "tSu6kbnca1bCm/qohywWrQy2g+yspwXC9vocX+GClwzxIYC2aAI1PD2mV00SvZyxzK1ClBk1xNY5tV++DM5AsA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ginni\\Documents\\My Games\\Terraria\\ModLoader\\Mod Sources\\CalsuStuff\\CalsuSwords.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ginni\\.nuget\\packages\\tmodloader.codeassist\\0.1.1\\tmodloader.codeassist.0.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,6 @@
+author = Calsu
+version = 0.0.0.1
+displayName = Calsu's Stuff
+hideCode = true
+hideResources = true
+includeSource = false
